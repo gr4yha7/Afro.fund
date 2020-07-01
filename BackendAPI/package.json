@@ -1,0 +1,27 @@
+{
+  "name": "afro.fund",
+  "version": "1.0.0",
+  "description": "Afro.Fund is the decentralized smart economy hub for African devs, founders, and investors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/segunjosh/Afro.fund.git"
+  },
+  "keywords": [
+    "blockchain",
+    "decentralized",
+    "marketplace"
+  ],
+  "author": "Olusegun Komolafe Joshua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/segunjosh/Afro.fund/issues"
+  },
+  "homepage": "https://github.com/segunjosh/Afro.fund#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
